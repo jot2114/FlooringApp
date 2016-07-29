@@ -1,0 +1,14 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Tests\bin\Debug\Flooring.Tests.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Tests\bin\Debug\Flooring.Tests.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Tests\bin\Debug\Flooring.BLL.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Tests\bin\Debug\Flooring.Data.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Tests\bin\Debug\Flooring.Models.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Tests\bin\Debug\Flooring.BLL.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Tests\bin\Debug\Flooring.Data.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Tests\bin\Debug\Flooring.Models.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Tests\obj\Debug\Flooring.Tests.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Tests\obj\Debug\Flooring.Tests.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Tests\obj\Debug\Flooring.Tests.pdb
+C:\Users\Apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\FlooringProgram\Flooring.Tests\bin\Debug\Flooring.Tests.dll.config

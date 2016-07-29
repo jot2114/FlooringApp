@@ -1,0 +1,18 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.BLL\bin\Debug\Flooring.BLL.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.BLL\bin\Debug\Flooring.BLL.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.BLL\bin\Debug\Flooring.Data.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.BLL\bin\Debug\Flooring.Models.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.BLL\bin\Debug\Flooring.Data.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.BLL\bin\Debug\Flooring.Models.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.BLL\obj\Debug\Flooring.BLL.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.BLL\obj\Debug\Flooring.BLL.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.BLL\obj\Debug\Flooring.BLL.pdb
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week5\FlooringProgram\Flooring.BLL\bin\Debug\Flooring.BLL.dll
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week5\FlooringProgram\Flooring.BLL\bin\Debug\Flooring.BLL.pdb
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week5\FlooringProgram\Flooring.BLL\bin\Debug\Flooring.Data.dll
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week5\FlooringProgram\Flooring.BLL\bin\Debug\Flooring.Models.dll
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week5\FlooringProgram\Flooring.BLL\bin\Debug\Flooring.Data.pdb
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week5\FlooringProgram\Flooring.BLL\bin\Debug\Flooring.Models.pdb
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week5\FlooringProgram\Flooring.BLL\obj\Debug\Flooring.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week5\FlooringProgram\Flooring.BLL\obj\Debug\Flooring.BLL.dll
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week5\FlooringProgram\Flooring.BLL\obj\Debug\Flooring.BLL.pdb

@@ -1,0 +1,4 @@
+Order Number, CustomerName, State, Tax Rate, ProductType, Area, Cost per sq. foot, labor cost per sq. foot, material cost, labor cost, tax, total
+3,karansingh,PA,6.75,Tile,12,3.50,0,42.00,0,283.5000,325.5000
+3,karansingh,PA,6.75,Tile,12,3.50,0,42.00,0,283.5000,325.5000
+3,karansingh,PA,6.75,Tile,12,3.50,0,42.00,0,283.5000,325.5000

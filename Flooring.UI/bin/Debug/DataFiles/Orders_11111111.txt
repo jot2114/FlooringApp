@@ -1,0 +1,6 @@
+Order Number, CustomerName, State, Tax Rate, ProductType, Area, Cost per sq. foot, labor cost per sq. foot, material cost, labor cost, tax, total
+3,john,OH,6.25,Wood,12,5.15,0,61.80,57.00,742.5000,861.3000
+6,we,OH,6.25,Wood,12,5.15,0,61.80,57.00,742.5000,861.3000
+7,jot,OH,6.25,Wood,12,5.15,0,61.80,57.00,742.5000,861.3000
+8,pj,PA,6.75,Tile,23,3.50,4.15,80.50,95.45,11.876625,187.826625
+9,wer,OH,6.25,Wood,34,5.15,4.75,175.10,161.50,21.0375,357.6375

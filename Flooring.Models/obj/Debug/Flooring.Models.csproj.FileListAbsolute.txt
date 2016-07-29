@@ -1,0 +1,4 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Models\bin\Debug\Flooring.Models.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Models\bin\Debug\Flooring.Models.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Models\obj\Debug\Flooring.Models.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\Flooring.Models\obj\Debug\Flooring.Models.pdb
